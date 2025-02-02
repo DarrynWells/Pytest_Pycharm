@@ -1,2 +1,2 @@
 # Pytest_Pycharm
-Gaining experience working with Pytest with python
+Gaining experience working with Pytest with python.
